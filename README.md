@@ -1,16 +1,36 @@
-## Hi there 👋
+```text
+ __  __ _       _       _____      _ _ _
+|  \/  (_)     (_)     |_   _|    | (_) |
+| \  / |_ _ __  _ _______| |  __ _| |_| |__
+| |\/| | | '_ \| |_______| | / _` | | | '_ \
+| |  | | | | | | |      _| || (_| | | | |_) |
+|_|  |_|_|_| |_|_|     |_____\__,_|_|_|_.__/
 
-<!--
-**mtansari1971-cyber/mtansari1971-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+========================================================
 
-Here are some ideas to get you started:
+USER.......... Mohd Talib
+USERNAME...... mtansari1971-cyber
+OS............ Windows 11
+KERNEL........ B.Tech Artificial Intelligence Student
+UNIVERSITY.... Aligarh Muslim University
+LANGUAGES..... Python | C++ | SQL
+LEARNING...... Machine Learning | Deep Learning | AI
+TOOLS......... Git | GitHub | VS Code | Streamlit
+INTERESTS..... AI Engineering | Data Science | Open Source
+STATUS........ Always Learning 🚀
+CONTACT....... your_email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+========================================================
+```
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtansari1971-cyber&show_icons=true&theme=tokyonight)
+
+# Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtansari1971-cyber&layout=compact&theme=tokyonight)
+
+# Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mtansari1971-cyber&color=blue)
