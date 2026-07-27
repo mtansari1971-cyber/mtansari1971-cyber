@@ -18,7 +18,7 @@ LEARNING...... Machine Learning | Deep Learning | AI
 TOOLS......... Git | GitHub | VS Code | Streamlit
 INTERESTS..... AI Engineering | Data Science | Open Source
 STATUS........ Always Learning 🚀
-CONTACT....... your_email@example.com
+CONTACT....... mtansari1971@gmail.com
 
 ========================================================
 ```
